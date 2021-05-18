@@ -21,7 +21,7 @@ import { globalVar } from "./middlewares";
 
 //미들웨어 && 기초셋팅
 const app = express();
-const PORT = 4000;
+const PORT = 5000;
 app.use("/uploads", express.static("uploads"));
 app.use("/static", express.static("static"));
 app.use(cookieParser());
