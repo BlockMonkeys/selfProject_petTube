@@ -12,6 +12,5 @@ export const search = async(req, res) => {
     });
     const searched = searchedVideo.concat(searchedVideo2);
     const searchedResult = _.uniqBy(searched, "id");
-    console.log(searchedResult);
     res.render('search', { searchedResult, pageTitle: searchingBy })
 }
