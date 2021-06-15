@@ -1,6 +1,6 @@
 # PetTube Project
 
-**📌 **프로젝트 동기 :**** NinjaCoders 팀을 만든 후, 첫 팀 프로젝트 작업으로 프로젝트 협업 경험 및 팀 소개 페이지로 활용을 위해 프로젝트 제작
+**📌 **프로젝트 동기 :**** 노마드코더 Junior Track을 수강 후, 코드 작성에 익숙해지기 위해 개인 프로젝트를 진행함.
 
 **📌 **주요기능 :**** 로그인(Passport), 플래쉬 메세지 (passport), 검색(정규식), 게시글 동영상(multer), 글 CRUD, 댓글 구현 (Create, Delete), 권한 (Public & Private) 
 
